@@ -75,6 +75,12 @@ Contributors
 - Carmen Rondon Regalado <crondon@archeti.com>
 - Tatiana Deribina <tatiana.deribina@sprintit.fi>
 
+Other credits
+-------------
+
+The migration of this module from 18.0 to 19.0 was financially supported
+by SprintIT Ltd.
+
 Maintainers
 -----------
 
